@@ -1,1 +1,1 @@
-https://github.com/Adl1coder/Koleksiyonum
+https://github.com/Adl1coder/Task1InInternship
