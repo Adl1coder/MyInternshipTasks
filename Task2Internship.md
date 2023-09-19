@@ -1,1 +1,1 @@
-https://github.com/Adl1coder/HayvanBulmaca
+Task2: https://github.com/Adl1coder/HayvanBulmaca
